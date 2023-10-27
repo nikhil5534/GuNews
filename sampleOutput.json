@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "World Cup begins with total embarrassment",
+            "description": "England and New Zealand opened the Cricket World Cup on Thursday faced with a largely empty stadium - and those in the crowd donned tops and face-paint in the national colours of India.",
+            "url": "https://www.news.com.au/sport/cricket/whose-idea-was-it-world-cup-begins-with-total-embarrassment/news-story/507280cf510de32acdaac9722801c19a",
+            "urlToImage": "https://content.api.news/v3/images/bin/758b8bc61416df39f57a6fdd8e80bcb3",
+            "publishedAt": "2023-10-05T19:24:00Z",
+            "content": "England and New Zealand opened the Cricket World Cup on Thursday faced with a largely empty stadium - and those in the crowd donned tops and face-paint in the national colours of India.\r\nA ripple of … [+3711 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Simnikiwe Xabanisa",
+            "title": "SABC dodges World Cup blackout bullet (again), this time for the Cricket World Cup",
+            "description": "For the second time in a month, the SABC's been given a last-minute reprieve from the blackout involving a national team after it and Multichoice agreed to broadcast the Cricket World Cup on Thursday.",
+            "url": "https://www.news24.com/sport/cricket/worldcup/sabc-dodges-world-cup-blackout-bullet-again-this-time-for-the-cricket-world-cup-20231005",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9097/180b2c55776c414289ac85a3b946bb01.jpg",
+            "publishedAt": "2023-10-05T19:05:10",
+            "content": "The SABC has once again narrowly avoided the possibility of a complete blackout of a national team involved in a World Cup, this time the Proteas in cricket's quadrennial showpiece in India. This is … [+2225 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "‘Where’s the crowd?’: Fans deride empty stadium at Cricket World Cup opener",
+            "description": "Cricket fans slam organisers as the ICC Cricket World Cup gets underway amidst thousands of empty seats in Ahmedabad.",
+            "url": "http://www.aljazeera.com/sports/2023/10/5/where-is-the-crowd-fans-deride-empty-stadium-at-world-cup-opening-match",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-05T125507Z_443924324_UP1EJA50ZVTEU_RTRMADP_3_CRICKET-WORLDCUP-ENG-NZL-1696512421.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-10-05T15:57:41Z",
+            "content": "It was billed as the most anticipated cricket event of the year, held in the sports biggest stadium globally, in a country that is known to worship the game.\r\nBut when the ICC Cricket World Cup 2023 … [+5848 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Philippe Escande",
+            "title": "Coupe du monde de cricket : « L’affirmation de la nouvelle puissance de l’Inde dans le monde »",
+            "description": "Pour la quatrième fois, la péninsule indienne accueille la Coupe du monde de cricket.  Les sponsors se sont bousculés pour avancer leurs pions sur l’un des seuls grands pays affichant encore une forte croissance dans le monde.",
+            "url": "https://www.lemonde.fr/economie/article/2023/10/05/coupe-du-monde-de-cricket-l-affirmation-de-la-nouvelle-puissance-de-l-inde-dans-le-monde_6192604_3234.html",
+            "urlToImage": "https://img.lemde.fr/2023/10/05/0/0/4648/3099/1440/960/60/0/b1337eb_1696496032461-000-33xb8ed.jpg",
+            "publishedAt": "2023-10-05T09:30:09Z",
+            "content": "Le stade Narendra Modi, à Ahmedabad, mercredi 4 octobre 2023. SAM PANTHAKY / AFP\r\nAngleterre - Nouvelle-Zélande. Ce nest pas laffiche de la prochaine finale du Mondial de rugby, qui se déroule en Fra… [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
